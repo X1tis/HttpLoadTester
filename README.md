@@ -18,6 +18,8 @@
 ---
 
 ## Структура проекта
+
+
 HttpLoadTester/
 ├── HttpLoadTester.sln
 ├── HttpLoadTester/
@@ -29,6 +31,8 @@ HttpLoadTester/
 │ ├── packages.config
 │ ├── bin/
 │ └── obj/
+
+
 ---
 
 ## Архитектурная идея
@@ -75,8 +79,17 @@ HttpLoadTester/
 - .NET  
 
 Выполните:
+
+
 git clone https://github.com/X1tis/HttpLoadTester
+
+
 Откройте решение:
+
+
+HttpLoadTester.sln
+
+
 Запустите проект (F5).
 
 ---

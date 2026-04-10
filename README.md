@@ -18,7 +18,17 @@
 ---
 
 ## Структура проекта
-
+MicroserviceEcosystemCore/
+├── api_gateway/
+├── auth_service/
+├── authorization_service/
+├── demo_microservice/
+├── service_registry/
+├── shared/
+├── user_service/
+├── .env
+├── .env.example
+└── docker-compose.yml
 
 
 HttpLoadTester/

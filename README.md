@@ -20,17 +20,18 @@
 ## Структура проекта
 
 
+
 HttpLoadTester/
 ├── HttpLoadTester.sln
 ├── HttpLoadTester/
-│ ├── App.xaml
-│ ├── App.xaml.cs
-│ ├── MainWindow.xaml
-│ ├── MainWindow.xaml.cs
-│ ├── App.config
-│ ├── packages.config
-│ ├── bin/
-│ └── obj/
+├── App.xaml
+├── App.xaml.cs
+├── MainWindow.xaml
+├── MainWindow.xaml.cs
+├── App.config
+├── packages.config
+├── bin/
+└── obj/
 
 
 ---
